@@ -1,5 +1,4 @@
-﻿
-namespace WMSProject
+﻿namespace WMSProject
 {
     public class EmployeeViewModel
     {
